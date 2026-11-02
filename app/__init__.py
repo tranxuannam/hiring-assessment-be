@@ -1,0 +1,1 @@
+"""Hiring assessment backend application."""
